@@ -2,6 +2,10 @@
 -- 1.01 Select all records from the Customers table.
 SELECT * FROM Customers;
 
+
+
+
+
 -- 1.02 Select the first_name, last_name, and email of all customers.
 SELECT first_name, last_name, email FROM Customers;
 
